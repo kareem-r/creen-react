@@ -22,8 +22,12 @@ const Home = () => {
     getData()
   }catch(error){}
  })
-
- console.log(data)
+ 
+ const add_overlay=(e)=>{
+const add_post_click=document.querySelector(".add_post_click") 
+add_post_click.classList.add("overlay")
+add_post_click.style.display="block"
+}
   return (
     <>
     <Header/>
@@ -118,7 +122,7 @@ const Home = () => {
                 </div>
                 </div>
       <div className="right" style={{width:"65%",display:"flex",flexDirection:"column",gap:"10px"}}>
-        <div className="story">
+         <div className="story">
           <div className="Cases">
             <ul>
               <li>
@@ -264,7 +268,7 @@ const Home = () => {
     <img src="" alt="" /></li>
 </ul>
         </div>
-        <div className="add_post">
+        <div className="add_post" onClick={add_overlay}>
           <div className="header">
             <span><i class="ri-emotion-happy-line" style={{fontSize:"1.2rem"}}></i></span>
             <div className="info_user">
@@ -299,8 +303,9 @@ const Home = () => {
 
                         </div>        
                         </div>
-                        <div className="add_post_click">
+                        <div className="add_post_click " style={{display:"none"}}>
          <div className="con">
+          <span style={{display:"flex",justifyContent:"end",padding:"5px"}}><i class="ri-close-line" style={{fontSize:"1.2rem",cursor:"pointer"}}></i></span>
          <div className="header">
             <span><i class="ri-emotion-happy-line" style={{fontSize:"1.2rem"}}></i></span>
             <div className="info_user">
@@ -332,10 +337,10 @@ const Home = () => {
 
                                 </div>
                             </div>
-                            <div className="button_share">
+                            <div className="button_share" style={{display:"flex",justifyContent:"space-between",alignItems:"center"}}>
                               <button className='btn_add_post' >شارك</button>
                               
-                              
+                              <span style={{display:"flex",alignItems:"center",gap:"2px"}}><span><i class="ri-arrow-down-s-line" style={{fontSizecde:"1.2rem"}}></i></span><span>الكل<i class="ri-global-line" style={{fontSizecde:"1.2rem"}}></i></span></span>
                             </div>
 
                         </div>
@@ -369,12 +374,12 @@ const Home = () => {
                             
                             <div className='content'>
                               {
-                                data.images_count === 1 ? <><img src={data.image}></img>
+                                data.images_count === 1 ? <> <img src={data.image} alt=''></img>
                                 <p>{data.content}</p></> : 
                                 data.content !== null ?<>
                                 <p style={{direction:"rtl"}}>{data.content}</p> 
                                 <img src={data.image} alt="" /></>: 
-                                data.youtube !== "" ?  <iframe id="ytplayer" type="text/html" width="100%" height="340"
+                                data.youtube !== "" ?  <iframe id="ytplayer" title='youtube' type="text/html" width="100%" height="340"
                                 src={data.youtube} frameborder="0"
                                 webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe> : ""
                               

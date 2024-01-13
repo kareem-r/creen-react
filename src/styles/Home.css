@@ -349,15 +349,21 @@ margin-top: 5px;
     left: 0;
     right: 0;
     background-color: rgba(0, 0,0, .8);
-    z-index: 1;
+    z-index: 999;
 }
 
 
 .add_post_click{
+    padding: 10px;
+  }
+  .add_post_click .con{
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
     background: #fff;
     padding: 10px;
+    margin-top: 20%;
+    margin-left: 25%;
+    width: 50%;
   }
   .add_post_click .header{
     display: flex;
@@ -556,4 +562,7 @@ margin-top: 5px;
   display: block;
   width: 1px;
   cursor: pointer;
+}
+.block{
+  display: block;
 }
