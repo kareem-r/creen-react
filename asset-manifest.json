@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/creen-react/static/css/main.e6b804b5.css",
+    "main.js": "/creen-react/static/js/main.02710b5c.js",
+    "static/media/remixicon.svg?t=1702724036775": "/creen-react/static/media/remixicon.a377e4c771db384f4bc5.svg",
+    "static/media/remixicon.eot?t=1702724036775": "/creen-react/static/media/remixicon.dd310df16a603c6a396d.eot",
+    "static/media/remixicon.ttf?t=1702724036775": "/creen-react/static/media/remixicon.424fce778c275364c18f.ttf",
+    "static/media/photo_2022-10-21_19-08-06.jpg": "/creen-react/static/media/photo_2022-10-21_19-08-06.e2b29032e6193bc7e9a6.jpg",
+    "static/media/remixicon.woff?t=1702724036775": "/creen-react/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
+    "static/media/remixicon.woff2?t=1702724036775": "/creen-react/static/media/remixicon.d690f58194cb889b5487.woff2",
+    "static/media/ic_launcher.png": "/creen-react/static/media/ic_launcher.bd625e0164e1914d47a7.png",
+    "index.html": "/creen-react/index.html",
+    "main.e6b804b5.css.map": "/creen-react/static/css/main.e6b804b5.css.map",
+    "main.02710b5c.js.map": "/creen-react/static/js/main.02710b5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b804b5.css",
+    "static/js/main.02710b5c.js"
+  ]
+}
