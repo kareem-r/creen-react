@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cren%20en-react/static/css/main.5d0d759b.css",
-    "main.js": "/cren%20en-react/static/js/main.f99352d0.js",
-    "static/media/remixicon.svg?t=1702724036775": "/cren%20en-react/static/media/remixicon.a377e4c771db384f4bc5.svg",
-    "static/media/remixicon.eot?t=1702724036775": "/cren%20en-react/static/media/remixicon.dd310df16a603c6a396d.eot",
-    "static/media/remixicon.ttf?t=1702724036775": "/cren%20en-react/static/media/remixicon.424fce778c275364c18f.ttf",
-    "static/media/photo_2022-10-21_19-08-06.jpg": "/cren%20en-react/static/media/photo_2022-10-21_19-08-06.e2b29032e6193bc7e9a6.jpg",
-    "static/media/remixicon.woff?t=1702724036775": "/cren%20en-react/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
-    "static/media/remixicon.woff2?t=1702724036775": "/cren%20en-react/static/media/remixicon.d690f58194cb889b5487.woff2",
-    "static/media/mada.jpg": "/cren%20en-react/static/media/mada.107618a2a145c70beea1.jpg",
-    "static/media/mastercard.png": "/cren%20en-react/static/media/mastercard.dae1dfdc92f13a98241e.png",
-    "static/media/visa.png": "/cren%20en-react/static/media/visa.1202f23c2a498a53e44f.png",
-    "static/media/ic_launcher.png": "/cren%20en-react/static/media/ic_launcher.bd625e0164e1914d47a7.png",
-    "index.html": "/cren%20en-react/index.html",
-    "main.5d0d759b.css.map": "/cren%20en-react/static/css/main.5d0d759b.css.map",
-    "main.f99352d0.js.map": "/cren%20en-react/static/js/main.f99352d0.js.map"
+    "main.css": "/creen-react/static/css/main.3e69296a.css",
+    "main.js": "/creen-react/static/js/main.8e674518.js",
+    "static/media/remixicon.svg?t=1702724036775": "/creen-react/static/media/remixicon.a377e4c771db384f4bc5.svg",
+    "static/media/remixicon.eot?t=1702724036775": "/creen-react/static/media/remixicon.dd310df16a603c6a396d.eot",
+    "static/media/remixicon.ttf?t=1702724036775": "/creen-react/static/media/remixicon.424fce778c275364c18f.ttf",
+    "static/media/photo_2022-10-21_19-08-06.jpg": "/creen-react/static/media/photo_2022-10-21_19-08-06.e2b29032e6193bc7e9a6.jpg",
+    "static/media/remixicon.woff?t=1702724036775": "/creen-react/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
+    "static/media/remixicon.woff2?t=1702724036775": "/creen-react/static/media/remixicon.d690f58194cb889b5487.woff2",
+    "static/media/mada.jpg": "/creen-react/static/media/mada.107618a2a145c70beea1.jpg",
+    "static/media/mastercard.png": "/creen-react/static/media/mastercard.dae1dfdc92f13a98241e.png",
+    "static/media/visa.png": "/creen-react/static/media/visa.1202f23c2a498a53e44f.png",
+    "static/media/ic_launcher.png": "/creen-react/static/media/ic_launcher.bd625e0164e1914d47a7.png",
+    "index.html": "/creen-react/index.html",
+    "main.3e69296a.css.map": "/creen-react/static/css/main.3e69296a.css.map",
+    "main.8e674518.js.map": "/creen-react/static/js/main.8e674518.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d0d759b.css",
-    "static/js/main.f99352d0.js"
+    "static/css/main.3e69296a.css",
+    "static/js/main.8e674518.js"
   ]
 }
