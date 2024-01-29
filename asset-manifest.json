@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/creen-react/static/css/main.3aac0503.css",
-    "main.js": "/creen-react/static/js/main.2ad6ee88.js",
+    "main.css": "/creen-react/static/css/main.efe1a232.css",
+    "main.js": "/creen-react/static/js/main.8a6a1d46.js",
     "static/media/remixicon.svg?t=1702724036775": "/creen-react/static/media/remixicon.a377e4c771db384f4bc5.svg",
     "static/media/remixicon.eot?t=1702724036775": "/creen-react/static/media/remixicon.dd310df16a603c6a396d.eot",
     "static/media/remixicon.ttf?t=1702724036775": "/creen-react/static/media/remixicon.424fce778c275364c18f.ttf",
@@ -10,14 +10,16 @@
     "static/media/remixicon.woff2?t=1702724036775": "/creen-react/static/media/remixicon.d690f58194cb889b5487.woff2",
     "static/media/mada.jpg": "/creen-react/static/media/mada.107618a2a145c70beea1.jpg",
     "static/media/mastercard.png": "/creen-react/static/media/mastercard.dae1dfdc92f13a98241e.png",
+    "static/media/user-icon.png": "/creen-react/static/media/user-icon.8ec9402d70e6187259ae.png",
+    "static/media/gift.jpg": "/creen-react/static/media/gift.d9fc8c7ed35b300a0c08.jpg",
     "static/media/visa.png": "/creen-react/static/media/visa.1202f23c2a498a53e44f.png",
     "static/media/ic_launcher.png": "/creen-react/static/media/ic_launcher.bd625e0164e1914d47a7.png",
     "index.html": "/creen-react/index.html",
-    "main.3aac0503.css.map": "/creen-react/static/css/main.3aac0503.css.map",
-    "main.2ad6ee88.js.map": "/creen-react/static/js/main.2ad6ee88.js.map"
+    "main.efe1a232.css.map": "/creen-react/static/css/main.efe1a232.css.map",
+    "main.8a6a1d46.js.map": "/creen-react/static/js/main.8a6a1d46.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aac0503.css",
-    "static/js/main.2ad6ee88.js"
+    "static/css/main.efe1a232.css",
+    "static/js/main.8a6a1d46.js"
   ]
 }
