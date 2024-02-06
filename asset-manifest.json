@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/creen-react/static/css/main.c13f3aa9.css",
-    "main.js": "/creen-react/static/js/main.a6936424.js",
+    "main.css": "/creen-react/static/css/main.8fac4a3e.css",
+    "main.js": "/creen-react/static/js/main.5a5bb69e.js",
     "static/media/remixicon.svg?t=1702724036775": "/creen-react/static/media/remixicon.a377e4c771db384f4bc5.svg",
     "static/media/remixicon.eot?t=1702724036775": "/creen-react/static/media/remixicon.dd310df16a603c6a396d.eot",
     "static/media/remixicon.ttf?t=1702724036775": "/creen-react/static/media/remixicon.424fce778c275364c18f.ttf",
@@ -33,6 +33,7 @@
     "static/media/اطباءjpg.jpg": "/creen-react/static/media/اطباءjpg.a85bf2b69d980a4df28a.jpg",
     "static/media/background.jpg": "/creen-react/static/media/background.da355c1cfaf9e780f77a.jpg",
     "static/media/shopping-bag-icon-png-0.jpg": "/creen-react/static/media/shopping-bag-icon-png-0.2ed0dc3eae752a76f0a0.jpg",
+    "static/media/body-removebg-preview.png": "/creen-react/static/media/body-removebg-preview.e0899a50a1e4d16217f8.png",
     "static/media/taxi-icon_91756-2625.jpg": "/creen-react/static/media/taxi-icon_91756-2625.15ce6cbf73b2b66dc956.jpg",
     "static/media/gift.jpg": "/creen-react/static/media/gift.d9fc8c7ed35b300a0c08.jpg",
     "static/media/clinic_heh_hand_hospital_cross_services_medical_icon_259713.png": "/creen-react/static/media/clinic_heh_hand_hospital_cross_services_medical_icon_259713.ea8902ae9f1c90cf631f.png",
@@ -43,11 +44,11 @@
     "static/media/play-button_icon-icons.com_53922.png": "/creen-react/static/media/play-button_icon-icons.com_53922.a5ff542748482b26c69d.png",
     "static/media/privacy.jpg": "/creen-react/static/media/privacy.ffe8def9107351c4b6cc.jpg",
     "index.html": "/creen-react/index.html",
-    "main.c13f3aa9.css.map": "/creen-react/static/css/main.c13f3aa9.css.map",
-    "main.a6936424.js.map": "/creen-react/static/js/main.a6936424.js.map"
+    "main.8fac4a3e.css.map": "/creen-react/static/css/main.8fac4a3e.css.map",
+    "main.5a5bb69e.js.map": "/creen-react/static/js/main.5a5bb69e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c13f3aa9.css",
-    "static/js/main.a6936424.js"
+    "static/css/main.8fac4a3e.css",
+    "static/js/main.5a5bb69e.js"
   ]
 }
