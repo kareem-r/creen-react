@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/creen-react/static/css/main.8fac4a3e.css",
-    "main.js": "/creen-react/static/js/main.5a5bb69e.js",
+    "main.js": "/creen-react/static/js/main.4aae4272.js",
     "static/media/remixicon.svg?t=1702724036775": "/creen-react/static/media/remixicon.a377e4c771db384f4bc5.svg",
     "static/media/remixicon.eot?t=1702724036775": "/creen-react/static/media/remixicon.dd310df16a603c6a396d.eot",
     "static/media/remixicon.ttf?t=1702724036775": "/creen-react/static/media/remixicon.424fce778c275364c18f.ttf",
@@ -45,10 +45,10 @@
     "static/media/privacy.jpg": "/creen-react/static/media/privacy.ffe8def9107351c4b6cc.jpg",
     "index.html": "/creen-react/index.html",
     "main.8fac4a3e.css.map": "/creen-react/static/css/main.8fac4a3e.css.map",
-    "main.5a5bb69e.js.map": "/creen-react/static/js/main.5a5bb69e.js.map"
+    "main.4aae4272.js.map": "/creen-react/static/js/main.4aae4272.js.map"
   },
   "entrypoints": [
     "static/css/main.8fac4a3e.css",
-    "static/js/main.5a5bb69e.js"
+    "static/js/main.4aae4272.js"
   ]
 }
