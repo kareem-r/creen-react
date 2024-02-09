@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/creen-react/static/css/main.41407294.css",
-    "main.js": "/creen-react/static/js/main.ece2203a.js",
+    "main.css": "/creen-react/static/css/main.372b61af.css",
+    "main.js": "/creen-react/static/js/main.0ab1686e.js",
     "static/media/remixicon.svg?t=1702724036775": "/creen-react/static/media/remixicon.a377e4c771db384f4bc5.svg",
     "static/media/remixicon.eot?t=1702724036775": "/creen-react/static/media/remixicon.dd310df16a603c6a396d.eot",
     "static/media/remixicon.ttf?t=1702724036775": "/creen-react/static/media/remixicon.424fce778c275364c18f.ttf",
@@ -35,11 +35,11 @@
     "static/media/play-button_icon-icons.com_53922.png": "/creen-react/static/media/play-button_icon-icons.com_53922.a5ff542748482b26c69d.png",
     "static/media/privacy.jpg": "/creen-react/static/media/privacy.ffe8def9107351c4b6cc.jpg",
     "index.html": "/creen-react/index.html",
-    "main.41407294.css.map": "/creen-react/static/css/main.41407294.css.map",
-    "main.ece2203a.js.map": "/creen-react/static/js/main.ece2203a.js.map"
+    "main.372b61af.css.map": "/creen-react/static/css/main.372b61af.css.map",
+    "main.0ab1686e.js.map": "/creen-react/static/js/main.0ab1686e.js.map"
   },
   "entrypoints": [
-    "static/css/main.41407294.css",
-    "static/js/main.ece2203a.js"
+    "static/css/main.372b61af.css",
+    "static/js/main.0ab1686e.js"
   ]
 }
