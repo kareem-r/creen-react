@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/creen-react/static/css/main.372b61af.css",
-    "main.js": "/creen-react/static/js/main.3b80ef03.js",
+    "main.css": "/creen-react/static/css/main.f9b4fbd2.css",
+    "main.js": "/creen-react/static/js/main.3348fb54.js",
     "static/media/remixicon.svg?t=1702724036775": "/creen-react/static/media/remixicon.a377e4c771db384f4bc5.svg",
     "static/media/remixicon.eot?t=1702724036775": "/creen-react/static/media/remixicon.dd310df16a603c6a396d.eot",
     "static/media/remixicon.ttf?t=1702724036775": "/creen-react/static/media/remixicon.424fce778c275364c18f.ttf",
@@ -11,6 +11,7 @@
     "static/media/remixicon.woff2?t=1702724036775": "/creen-react/static/media/remixicon.d690f58194cb889b5487.woff2",
     "static/media/yes.png": "/creen-react/static/media/yes.c8c87f3b29a3791737a8.png",
     "static/media/user-icon.png": "/creen-react/static/media/user-icon.8ec9402d70e6187259ae.png",
+    "static/media/edit2.png": "/creen-react/static/media/edit2.ea4631e277be5163972f.png",
     "static/media/circle.png": "/creen-react/static/media/circle.75fef489df0ce4d2dd45.png",
     "static/media/03-removebg-preview.png": "/creen-react/static/media/03-removebg-preview.4f0a81c71fed57d03a59.png",
     "static/media/مدربين.jpg": "/creen-react/static/media/مدربين.e031ed6e3b8381535a43.jpg",
@@ -32,14 +33,15 @@
     "static/media/bg5.jpg": "/creen-react/static/media/bg5.b343cc5a0ae20eec92cd.jpg",
     "static/media/R.png": "/creen-react/static/media/R.af8c1e0a3737df2c8e9a.png",
     "static/media/ic_launcher.png": "/creen-react/static/media/ic_launcher.bd625e0164e1914d47a7.png",
+    "static/media/schedule.png": "/creen-react/static/media/schedule.ec81630356a0b894c331.png",
     "static/media/play-button_icon-icons.com_53922.png": "/creen-react/static/media/play-button_icon-icons.com_53922.a5ff542748482b26c69d.png",
     "static/media/privacy.jpg": "/creen-react/static/media/privacy.ffe8def9107351c4b6cc.jpg",
     "index.html": "/creen-react/index.html",
-    "main.372b61af.css.map": "/creen-react/static/css/main.372b61af.css.map",
-    "main.3b80ef03.js.map": "/creen-react/static/js/main.3b80ef03.js.map"
+    "main.f9b4fbd2.css.map": "/creen-react/static/css/main.f9b4fbd2.css.map",
+    "main.3348fb54.js.map": "/creen-react/static/js/main.3348fb54.js.map"
   },
   "entrypoints": [
-    "static/css/main.372b61af.css",
-    "static/js/main.3b80ef03.js"
+    "static/css/main.f9b4fbd2.css",
+    "static/js/main.3348fb54.js"
   ]
 }
